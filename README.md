@@ -1,4 +1,4 @@
-Nginc configs
+Nginx configs
 ===================
 - Load Balancing
 - Reverse Proxy set up
